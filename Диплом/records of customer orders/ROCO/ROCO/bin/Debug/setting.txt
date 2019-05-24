@@ -1,0 +1,19 @@
+true
+true
+true
+true
+true
+true
+true
+true
+false
+false
+undefined
+true
+Не законченные
+2019-04-11
+2019-05-18
+12
+true
+Не законченные
+Times New Roman
